@@ -1,0 +1,17 @@
+{
+  "name":"WEBUI",
+  "description":"ESP WEBUI,Web Interface",
+  "keywords":"UI,udp,tcp,web,server",
+  "version": "1.0.0",
+  "authors": {
+    "name":  "qitas",
+    "email": "qitas@qitas.cn",
+    "url": "http://arduino.qitas.cn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OS-Q/D110.git"
+  },
+  "frameworks": "arduino",
+  "platforms":"espressif,esp8266,esp32"
+}
