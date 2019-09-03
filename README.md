@@ -1,5 +1,5 @@
 ﻿# [WEBUI](https://github.com/OS-Q/D110)
-[![sites](OS-Q/qitas.png)](http://www.OS-Q.com)
+[![sites](OS-Q/OS-Q.png)](http://www.OS-Q.com)
 #### 归属显示交互：[W16](https://github.com/OS-Q/W16)
 #### 关于系统架构：[OS-Q](https://github.com/OS-Q/OS-Q)
 
